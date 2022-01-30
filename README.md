@@ -1,8 +1,8 @@
 <h2 align="center"> 👋 Olá... Meu nome é Vanessa. </h2>
-<div style="display: flex" justify-content="space-between">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanessafmotta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vanessafmotta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <a href="https://github.com/vanessafmotta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessafmotta&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessafmotta&layout=compact&langs_count=7&theme=dracula"/>
   
 </div>
 <div align="center"><br>
@@ -14,7 +14,7 @@
   <img align="center" alt="van-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<div> 
+<div align="center"> 
 
  
   ![Snake animation](https://github.com/vanessafmotta/vanessafmotta/blob/output/github-contribution-grid-snake.svg)
