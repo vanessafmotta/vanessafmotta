@@ -1,5 +1,5 @@
 <h2 align="center"> 👋 Olá... Meu nome é Vanessa. </h2>
-<div align="center" style="display: flex" justify-content="space-between">
+<div style="display: flex" justify-content="space-between">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanessafmotta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <a href="https://github.com/vanessafmotta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessafmotta&layout=compact&langs_count=7&theme=dracula"/>
