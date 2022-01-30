@@ -1,8 +1,8 @@
 <h2 align="center"> 👋 Olá... Meu nome é Vanessa. </h2>
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vanessafmotta&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vanessafmotta&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
   <a href="https://github.com/vanessafmotta">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessafmotta&layout=compact&langs_count=7&theme=panda"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessafmotta&layout=compact&langs_count=7&theme=bear"/>
   
 </div>
 <div align="center"><br>
