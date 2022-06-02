@@ -1,4 +1,3 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">, I'm Vanessa Motta</h1>
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vanessafmotta&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
   <a href="https://github.com/vanessafmotta">
